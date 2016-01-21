@@ -1,0 +1,2 @@
+If you need to resolve structured address information from plain text without usage of some online requests, this is solution for you.
+Currently it is prepared for Poland, but should work also for some other countries as well.
